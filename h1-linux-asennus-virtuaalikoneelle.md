@@ -27,7 +27,6 @@ Asensin debianin desktopilla olleesta Debian installerista, ja "https://terokarv
 
 Koitin asentaa virtualbox Guest Additionssit, jotta saisin paremman resoluution fullscreenille, sekä mahdollisuuden copy-pastee virtuaalikoneen ja host-koneen välillä, ja kun koitin asentaa noita Guest Additionsseja Teron ohjeiden mukaan 
 $ cd /media/*/VBox*
-
 $ ls 
 komennoilla, sain samat tekstit terminaalissa näkyviin kuin ohjeissa, mutta sen jälkeen yhtäkkiä ruutu muuttui mustaksi, ja jäi jumiin siihen blackscreeniin. Koitin bootata uudelleen käyntiin monta kertaa, mutta jokaikinen kerta meni suoraan blackscreeniin, ei tullut edes login-ruutua esille. Kysyin ChatGPT:ltä, miten pääsen kirjautumaan sisään ja poistamaan guest additionssit, ilman login-ruutua, ja sain ohjeiksi 
 
