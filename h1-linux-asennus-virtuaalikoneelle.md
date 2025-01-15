@@ -40,7 +40,9 @@ Koitin tämän jälkeen asentaa uusiksi guest additionssit ajurit https://greenw
 
 ![Alt Text](images/VideoMemory.png) kohdasta video memoryn määrän 16MB --- 128MB. Tämän jälkeen reboot ja VM meni suoraan fullscreeniin (mikä implikoi, että Guest Additions ajurit asentui ihan oikein, mutta 16MB video memoryä ei riittänyt parempaan resoluutioon, jonka noista ajureista saa joka johti blackscreeniin aina suoraan käynnistäessä.
 
+### Kaikki toimii nyt niinkuin pitääkin
 
+--Ihan eka tän tyylinen raportti mitä oon kirjottanu nii saa laittaa vapaasti palautetta mitä voisin tehä paremmin / pitäiskö tiivistää joitaki kohtii jatkos ynms :D
 
 
 ## Lähteet
