@@ -15,8 +15,11 @@ kun olin antamassa sille virtuaalikoneelle nimeä niin kirjoitin: PasiSalmelaLin
 
 
 Tämän jälkeen poistin sanan Linux virtuaalikoneeni nimestä, ja vaihdoin version takaisin debianiksi valikosta
-ja boottasin uudestaan live modessa ja nyt toimi ongelmitta.
+ja boottasin uudestaan live modessa ja nyt toimi ongelmitta
 
+## Testataan toimiiko
+
+Asensin debianin desktopilla olleesta Debian installerista, ja "https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login" -ohjeita noudattaen laitoin asetukset valmiiksi ja installerin lopussa olevan reboottauksen jälkeen kirjauduin sisään laittamillani tunnuksilla ja testasin web browserilla, että youtube toimii. Kaikki siis kunnossa. 
 
 
 
