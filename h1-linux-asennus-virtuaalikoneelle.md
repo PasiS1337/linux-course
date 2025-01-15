@@ -39,3 +39,4 @@ P채채sin t채lleen kirjautumaan sis채lle, ajoin tuon uninstall komennon ja sen j�
 
 ## L채hteet
 - https://www.debian.org/CD/live/     (latasin debian ISO tiedoston t채채lt채)
+- https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/
