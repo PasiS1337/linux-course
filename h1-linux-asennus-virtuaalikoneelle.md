@@ -34,6 +34,10 @@ komennoilla, sain samat tekstit terminaalissa näkyviin kuin ohjeissa, mutta sen
 
 Pääsin tälleen kirjautumaan sisälle, ajoin tuon uninstall komennon ja sen jälkeen sudo rebootilla uudelleen käynnistys, ja tällä blackscreen-ongelma ratkaistu, mutta pitää kokeilla asentaa guest additionssit uudelleen.
 
+## Guest Additions installing blackscreenaus-ongelma ja sen ratkaisu
+
+Koitin tämän jälkeen asentaa uusiksi guest additionssit https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/ ohjeiden mukaan, ja tästäkin seurasi sama blackscreen-ongelma. Tämän jälkeen kävin VirtualBoxin asetuksia katsomassa, ja nostin 
+
 
 
 
