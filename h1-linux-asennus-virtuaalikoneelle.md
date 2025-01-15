@@ -6,7 +6,7 @@
 - virtuaaliselle kovalevylle tilaa jaettu: 150GB
 - VirtualBox käytössä
   
-## Ensimmäinen pikku ongelma minkä kohtasin
+## pieni ongelma minkä kohtasin
 
 Kun tein ton virtuaalikoneen ekaa kertaa VirtualBoxissa ja boottasin sen siinä live-modessa, niin mulle tuli viesti: "kernel requires an x86-64 cpu, but only detected an i686 cpu. unable to boot - please use a kernel appropriate for your cpu".
 Mutta tiedän jo valmiiksi, että mun prosessori (AMD Ryzen 7 5700x3d) on x86-64 prosessori niin ajattelin, että ehkä varmaan laitoin vahingossa settingsseissä jotain väärin. Tästä syystä poistin tuon virtuaalikoneen ja tein uuden, ja uutta tehdessäni huomasin, 
