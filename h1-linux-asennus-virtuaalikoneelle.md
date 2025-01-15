@@ -45,6 +45,9 @@ Koitin tämän jälkeen asentaa uusiksi guest additionssit ajurit https://greenw
 --Ihan eka tän tyylinen raportti mitä oon kirjottanu nii saa laittaa vapaasti palautetta mitä voisin tehä paremmin / pitäiskö tiivistää joitaki kohtii jatkos ynms :D
 
 
+
+![Alt Text](images/FinishedLinux.jpeg)
+
 ## Lähteet
 - https://www.debian.org/CD/live/     (latasin debian ISO tiedoston täältä)
 - https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/
