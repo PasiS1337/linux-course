@@ -17,7 +17,7 @@ kun olin antamassa sille virtuaalikoneelle nimeä niin kirjoitin: PasiSalmelaLin
 Tämän jälkeen poistin sanan Linux virtuaalikoneeni nimestä, ja vaihdoin version takaisin debianiksi valikosta
 ja boottasin uudestaan live modessa ja nyt toimi ongelmitta
 
-## Testataan toimiiko
+## Debian asennus, browseri toimii, palomuurin asennus
 
 Asensin debianin desktopilla olleesta Debian installerista, ja "https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login" -ohjeita noudattaen laitoin asetukset valmiiksi ja installerin lopussa olevan reboottauksen jälkeen kirjauduin sisään laittamillani tunnuksilla ja testasin web browserilla, että youtube toimii. Kaikki siis kunnossa. Asensin myös Teron ohjeiden mukaan palomuurin $ sudo apt-get -y install ufw komennolla sekä laitoin sen päälle $ sudo ufw enable komennolla. Tämän jälkeen $ sudo reboot komennolla käynnistin linuxin uudelleen, koska tuo palomuuri tulee voimaan vasta reboottauksen jälkeen. 
 
