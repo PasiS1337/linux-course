@@ -36,11 +36,12 @@ Pääsin tälleen kirjautumaan sisälle, ajoin tuon uninstall komennon ja sen j�
 
 ## Guest Additions installing blackscreenaus-ongelma ja sen ratkaisu
 
-Koitin tämän jälkeen asentaa uusiksi guest additionssit https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/ ohjeiden mukaan, ja tästäkin seurasi sama blackscreen-ongelma. Tämän jälkeen kävin VirtualBoxin asetuksia katsomassa, ja nostin ![Alt Text](images/VideoMemory.png) kohdasta video memoryn määrän 16MB --- 128MB. Tämän jälkeen reboot ja VM meni suoraan fullscreeniin (mikä implikoi, että Guest Additionssit asentui ihan oikein, mutta 16MB video memoryä ei riittänyt parempaan resoluutioon, jonka noista ajureista saa joka johti blackscreeniin aina suoraan käynnistäessä. 
-MB
+Koitin tämän jälkeen asentaa uusiksi guest additionssit ajurit https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/ ohjeiden mukaan, ja tästäkin seurasi sama blackscreen-ongelma. Tämän jälkeen kävin VirtualBoxin asetuksia katsomassa, ja nostin ![Alt Text](images/VideoMemory.png) kohdasta video memoryn määrän 16MB --- 128MB. Tämän jälkeen reboot ja VM meni suoraan fullscreeniin (mikä implikoi, että Guest Additions ajurit asentui ihan oikein, mutta 16MB video memoryä ei riittänyt parempaan resoluutioon, jonka noista ajureista saa joka johti blackscreeniin aina suoraan käynnistäessä.
+
 
 
 
 ## Lähteet
 - https://www.debian.org/CD/live/     (latasin debian ISO tiedoston täältä)
 - https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/
+- https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login
