@@ -32,7 +32,7 @@ komennoilla, sain samat tekstit terminaalissa näkyviin kuin ohjeissa, mutta sen
 
 ![Alt Text](images/TTyLinux.png)
 
-Pääsin tälleen kirjautumaan sisälle, ja ajamalla tuon uninstall komennon ja sen jälkeen sudo rebootilla uudelleen käynnistys, ja tällä blackscreen-ongelma ratkaistu.
+Pääsin tälleen kirjautumaan sisälle, ajoin tuon uninstall komennon ja sen jälkeen sudo rebootilla uudelleen käynnistys, ja tällä blackscreen-ongelma ratkaistu, mutta pitää kokeilla asentaa guest additionssit uudelleen.
 
 
 
