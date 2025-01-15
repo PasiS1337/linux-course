@@ -19,9 +19,17 @@ ja boottasin uudestaan live modessa ja nyt toimi ongelmitta
 
 ## Testataan toimiiko
 
-Asensin debianin desktopilla olleesta Debian installerista, ja "https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login" -ohjeita noudattaen laitoin asetukset valmiiksi ja installerin lopussa olevan reboottauksen jälkeen kirjauduin sisään laittamillani tunnuksilla ja testasin web browserilla, että youtube toimii. Kaikki siis kunnossa. Asensin myös Teron ohjeiden mukaan palomuurin $ sudo apt-get -y install ufw komennolla sekä laitoin sen päälle $ sudo ufw enable komennolla.
+Asensin debianin desktopilla olleesta Debian installerista, ja "https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login" -ohjeita noudattaen laitoin asetukset valmiiksi ja installerin lopussa olevan reboottauksen jälkeen kirjauduin sisään laittamillani tunnuksilla ja testasin web browserilla, että youtube toimii. Kaikki siis kunnossa. Asensin myös Teron ohjeiden mukaan palomuurin $ sudo apt-get -y install ufw komennolla sekä laitoin sen päälle $ sudo ufw enable komennolla. Tämän jälkeen $ sudo reboot komennolla käynnistin linuxin uudelleen, koska tuo palomuuri tulee voimaan vasta reboottauksen jälkeen. 
 
 ![Alt Text](images/LinuxFW.png)
+
+## Toinen ongelma
+
+Koitin asentaa virtualbox Guest Additionssit, jotta saisin paremman resoluution fullscreenille, sekä mahdollisuuden copy-pastee virtuaalikoneen ja host-koneen välillä, ja kun koitin asentaa noita Guest Additionsseja Teron ohjeiden mukaan 
+$ cd /media/*/VBox*
+$ ls 
+komennoilla, sain samat tekstit terminaalissa näkyviin kuin ohjeissa, mutta sen jälkeen yhtäkkiä ruutu muuttai mustaksi, ja jäi jumiin siihen blackscreeniin. Koitin bootata uudelleen käyntiin monta kertaa, mutta jokaikinen kerta meni suoraan blackscreeniin, ei tullut edes login-ruutua esille, 
+
 
 
 
