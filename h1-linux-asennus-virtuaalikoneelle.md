@@ -4,7 +4,7 @@
 - Asennetaan Debian-live-12.9.0-amd64-xfce versio
 - RAM-allokointi virtuaalikoneelle: 8GB
 - virtuaaliselle kovalevylle tilaa jaettu: 150GB
-- VirtualBox käytössä
+- VirtualBox-ohjelma käytössä
   
 ## pieni ongelma minkä kohtasin
 
