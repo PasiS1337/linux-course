@@ -5,7 +5,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 -Vapaalla ohjelmistolla (Free software) tarkoitetaan ohjelmaa, jonka täytyy olla open source. (käyttäjät voivat tutkia sekä muokata sitä omaan käyttöönsä sopivaksi) Sitä pitää pystyä käyttämään niinkuin kukin itse haluaa ja mihin käyttöön halutaan. Ihmisillä/yrityksillä on myös oikeus jakaa muokattuja versioitaan eteenpäin muille ihmisille sekä yhteisöille. Jos nämä kriteerit eivät täyty, sitä ei voida luokitella vapaaksi ohjelmaksi. 
 -Tämä ei kuitenkaan tarkoita, etteikö vapaata ohjelmaa pystyisi käyttää kaupallisesti, päinvastoin. Kaupallinen käyttö on tärkeää, että vapaa ohjelmisto pystyy saavuttamaan sen tavoitteet. 
--Jos muokkaat vapaata ohjelmistoa omaan käyttöösi sopivaksi, sinulla EI ole mitään velvollisuutta ilmoittaa asiasta kenellekkään tai pyytää mitään lupia sen muokkaamiseen.
+-Jos muokkaat vapaata ohjelmistoa omaan käyttöösi sopivaksi, sinulla EI ole mitään velvollisuutta ilmoittaa asiasta kenellekkään tai pyytää mitään lupia sen muokkaamiseen. (Lähde: https://www.gnu.org/philosophy/free-sw.html)
 
 
 
@@ -61,6 +61,7 @@ Koitin tämän jälkeen asentaa uusiksi guest additions ajurit https://greenwebp
 ![Alt Text](images/FinishedLinux.jpeg)
 
 ## Lähteet
+- https://www.gnu.org/philosophy/free-sw.html
 - https://www.debian.org/CD/live/     (latasin debian ISO tiedoston täältä)
 - https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/
 - https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login
