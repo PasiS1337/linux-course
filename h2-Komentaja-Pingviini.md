@@ -22,8 +22,9 @@ a) Asensin Micro-tekstieditorin jo viime tunnin aikana komennolla "sudo apt inst
 b) "https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited" aivan viimeisellä rivillä mainitaan, että voit asentaa monta eri ohjelmaa käyttämällä komentoa $ sudo apt-get -y install x y z ------xyz korvataan toki ohjelmien nimillä. Itse asensin VLC:n, mikä on ilmainen open-source multimedia playeri, jolla voi katsoa melkein minkä tahansa formaatin videoita. Esim windowssin oletus media player ei välillä suostu tiettyjä video codecceja avaamaan, ja tällöin varmaan helpointa on vaan avata se VLC:llä. Toinen ohjelma minkä asensin on "Terminator". Se on Linuxille tarkoitettu Terminal-emulator, jonka avulla voit pitää useaa terminaalia auki samanaikaisesti, ja vaikka tehdä custom keybindit, millä pystyt vaihtamaan suoraan yhdestä terminaali-ikkunasta toiseen. (kuva alempana) Kolmas ohjelma minkä asensin oli Audacity, joka on hyvin tunnettu audio-editori. Asensin nämä kaikki 3 samaan aikaan siis komennolla "sudo apt-get install vlc terminator audacity" ---Testasin myös, ja kaikki 3 ohjelmaa toimii kuten pitääkin.
 
 
-
 ![Alt Text](images/Image3Softwares.png)
+
+Latasin myös tuon python packet managerin (pip3) ja koitin ladata alkuun "https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux" -ohjeiden mukaan sellaisen ohjelman kuin youtube-dl (joka periaatteessa vaan lataa youtubesta URL:n avulla videon ja converttaa sen .mp3 tiedostoksi, jota voi sitten kuunnella lokaalisti koneelta, mutta jostain syystä tuo komento "sudo pip3 install youtube-dl" ei onnistunut, ja ongelma vaikutti sen verran monimutkaselta varsinkin tälläisen aloittelevan Linux-käyttäjän silmään, että päätin vaan ottaa easy-routen ja käyttää netissä olevaa YT URL to mp3 file converteria, jossa kesti alle minuutti. 
 
 
 # Lähteet
