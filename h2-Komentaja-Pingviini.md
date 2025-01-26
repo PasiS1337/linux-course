@@ -71,3 +71,4 @@ https://dev.to/xeroxism/how-to-install-terminator-a-linux-terminal-emulator-on-s
 https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux <br>
 https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/#:~:text=The%20%2Fmedia%20directory%20contains%20subdirectories,the%20CD%20inside%20this%20directory. <br>
 https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
+https://www.geeksforgeeks.org/lshw-command-in-linux-with-examples/
