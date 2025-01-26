@@ -7,4 +7,6 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 # a) ja b) tehtävät (micron + muiden ohjelmien asentaminen)
 
+Asensin Micro tekstieditorin jo viime tunnin aikana komennolla "sudo apt install micro".
 
+![Alt Text](images/MicroImage1.png)
