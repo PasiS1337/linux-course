@@ -35,6 +35,12 @@ Ensiksi kävin katsomassa /etc directoryä, ja avasin locale.conf tiedoston
 
 ![Alt Text](images/LessImage2.png)
 ![Alt Text](images/lessImage1.png)
+<br>
+Sitten kävin /home/pasis/ hakemistossa ja kävin katsomassa mitä /downloads/ kansiosta löytyy, ja sieltä löytyi aikaisemmin ladattu .mp3 tiedosto
+
+![Alt Text](LessImage3.png)
+
+
 
 
 
