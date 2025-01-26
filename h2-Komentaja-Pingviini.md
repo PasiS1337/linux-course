@@ -63,6 +63,8 @@ lshw:n asennettua käytin komentoa sudo lshw -short -sanitize, ja se listasi tek
 
 ![Alt Text](images/Grep3.png)
 
+Toi on vaan siis vähän sama kun katsoisi Host koneelta esim HWinfo-softalla mitä kaikkea rautaa sun koneesta löytyy, mutta nyt kun ollaan tekemisissä virtuaalikoneen sisällä, niin tuo komento näyttää sen virtuaalikoneen specsit. Prosessori näkyy tuolla suht. ylhäällä ja system memory näyttää 8064MB, koska allokoin host-koneeltani virtualboxissa 8GB RAM-muistia virtuaalikoneelle.
+
 
 
 
