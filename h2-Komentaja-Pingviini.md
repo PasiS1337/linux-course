@@ -45,6 +45,14 @@ Sitten kävin katsomassa /var/cache/man/fi sisältä ja sieltä löytyi tälläi
 ![Alt Text](images/LessImage5.png)
 ![Alt Text](images/LessImage4.png)
 
+# d) tehtävä
+
+Latasin sample.txt tiedoston netistä, ja testasin grep-komentoa sillä 
+
+![Alt Text](images/your-image-name.png)
+
+
+
 
 
 
@@ -56,3 +64,4 @@ https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%
 https://dev.to/xeroxism/how-to-install-terminator-a-linux-terminal-emulator-on-steroids-1m3h   (täältä löysin Terminator-ohjelman)
 https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux <br>
 https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/#:~:text=The%20%2Fmedia%20directory%20contains%20subdirectories,the%20CD%20inside%20this%20directory. <br>
+https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
