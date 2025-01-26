@@ -58,6 +58,10 @@ Sen jälkeen testasin putkia, käytin komentoa sudo journalctl | grep --color -i
 
 # f) tehtävä (lshw)
 
+lshw:n asennettua käytin komentoa sudo lshw -short -sanitize, ja se listasi tekstimuodossa virtuaalikoneeni specsit,
+
+
+![Alt Text](images/Grep3.png)
 
 
 
