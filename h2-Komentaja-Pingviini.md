@@ -15,7 +15,7 @@ b) "https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=comm
 
 
 
-(LISÄÄ KUVA VLC:stä, Terminatorista sekä vikasta softasta KÄYTÖS TÄHÄN)
+![Alt Text](images/Image3Softwares.png)
 
 
 # Lähteet
