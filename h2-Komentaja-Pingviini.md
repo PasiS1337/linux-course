@@ -31,10 +31,11 @@ Latasin myös tuon python packet managerin (pip3) ja koitin ladata alkuun "https
 kuten "https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited" -sivulla mainitaan, Linuxissa ei ole erillisiä levyjä kuten windowssissa esim C:// D:// jne, vaan kaikki asennetaan rootin alle. Sinun tarvitsee muistaa vain muutamat tärkeät directoryt, jotka ovat: / ---tämä on Root, eli kaikista ylin directory, minkä alle kaikki muu asentuu. Sitten sen alapuolella on /home, johon tallentuu kaikki eri käyttäjät esim omassa tapuksessani /home/pasis/. Toinen tärkeä on /etc/, täältä löytyy kaikki järjestelmän asetukset luettavissa tekstitiedostoissa. Neljäs tärkeä directory on /media/, se on tarkoitettu esim ulkoisille muistitikuille. Eli jos tökkäät USB-muistitikun niin se tallentaa sen /media/ directoryyn. (lähde: https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/#:~:text=The%20%2Fmedia%20directory%20contains%20subdirectories,the%20CD%20inside%20this%20directory.) <br>
 Ja vielä yksi tärkeä hakemisto on /var/log/, joka sisältää järjestelmän erilaisia logeja, joita voi katsella.
 
-Ensiksi kävin katsomassa /etc directoryä, ja avasin 
+Ensiksi kävin katsomassa /etc directoryä, ja avasin locale.conf tiedoston
 
-![Alt Text](images/lessImage1.png)
 ![Alt Text](images/LessImage2.png)
+![Alt Text](images/lessImage1.png)
+
 
 
 # Lähteet
