@@ -49,7 +49,7 @@ Sitten kävin katsomassa /var/cache/man/fi sisältä ja sieltä löytyi tälläi
 
 Latasin sample.txt tiedoston netistä, ja testasin grep-komentoa sillä 
 
-![Alt Text](images/your-image-name.png)
+![Alt Text](images/Grep1.png)
 
 
 
