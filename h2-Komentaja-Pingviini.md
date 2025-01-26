@@ -44,6 +44,8 @@ Sitten kävin /home/pasis/ hakemistossa ja kävin katsomassa mitä /downloads/ k
 
 
 
+
+
 # Lähteet
 https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 https://dev.to/xeroxism/how-to-install-terminator-a-linux-terminal-emulator-on-steroids-1m3h   (täältä löysin Terminator-ohjelman)
