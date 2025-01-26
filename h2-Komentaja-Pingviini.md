@@ -40,6 +40,11 @@ Sitten kävin /home/pasis/ hakemistossa ja kävin katsomassa mitä /downloads/ k
 
 ![Alt Text](images/LessImage3.png)
 
+Sitten kävin katsomassa /var/cache/man/fi sisältä ja sieltä löytyi tälläinen
+
+![Alt Text](images/LessImage5.png)
+![Alt Text](images/LessImage6.png)
+
 
 
 
