@@ -53,6 +53,8 @@ Latasin sample.txt tiedoston netistä, ja testasin grep-komentoa sillä
 
 Sen jälkeen testasin putkia, käytin komentoa sudo journalctl | grep --color -i "X86" ----sudo journalctl tuo esiin system logeja, ja tuo grep komento putkituksen avulla etsii sieltä sisältä kaikki kohdat missä on "X86", ja tuo --color värittää ne, ja -i komento vaan meinaa, että tulokset eivät ole case-sensitive, koska tuolla logeissa ne kaikki lukee pienellä x:llä (x86).
 
+![Alt Text](images/Grep2.png)
+
 
 
 
