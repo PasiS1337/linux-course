@@ -15,7 +15,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 # a) ja b) tehtävät: Micron, VLC:n, Terminator:in sekä Audacity:n asentaminen + testaus
 
-a) Asensin Micro tekstieditorin jo viime tunnin aikana komennolla "sudo apt install micro".
+a) Asensin Micro-tekstieditorin jo viime tunnin aikana komennolla "sudo apt install micro".
 
 ![Alt Text](images/MicroImage1.png)
 
