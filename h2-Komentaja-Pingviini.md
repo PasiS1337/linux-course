@@ -30,3 +30,4 @@ Latasin myös tuon python packet managerin (pip3) ja koitin ladata alkuun "https
 # Lähteet
 https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 https://dev.to/xeroxism/how-to-install-terminator-a-linux-terminal-emulator-on-steroids-1m3h   (täältä löysin Terminator-ohjelman)
+https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux
