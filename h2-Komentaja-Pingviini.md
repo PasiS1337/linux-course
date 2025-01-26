@@ -26,8 +26,13 @@ b) "https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=comm
 
 Latasin myös tuon python packet managerin (pip3) ja koitin ladata alkuun "https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux" -ohjeiden mukaan sellaisen ohjelman kuin youtube-dl (joka periaatteessa vaan lataa youtubesta URL:n avulla videon ja converttaa sen .mp3 tiedostoksi, jota voi sitten kuunnella lokaalisti koneelta, mutta jostain syystä tuo komento "sudo pip3 install youtube-dl" ei onnistunut, ja ongelma vaikutti sen verran monimutkaselta varsinkin tälläisen aloittelevan Linux-käyttäjän silmään, että päätin vaan ottaa easy-routen ja käyttää netissä olevaa YT URL to mp3 file converteria, jossa kesti alle minuutti. 
 
+# c) tehtävä
+
+kuten "https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited" -sivulla mainitaan, Linuxissa ei ole erillisiä levyjä kuten windowssissa esim C:// D:// jne, vaan kaikki asennetaan rootin alle. Sinun tarvitsee muistaa vain muutamat tärkeät directoryt, jotka ovat: / ---tämä on Root, eli kaikista ylin directory, minkä alle kaikki muu asentuu. Sitten sen alapuolella on /home, johon tallentuu kaikki eri käyttäjät esim omassa tapuksessani /home/pasis/. Toinen tärkeä on /etc/, täältä löytyy kaikki järjestelmän asetukset luettavissa tekstitiedostoissa. Neljäs tärkeä directory on /media/, se on tarkoitettu esim ulkoisille muistitikuille. Eli jos tökkäät USB-muistitikun niin se tallentaa sen /media/ directoryyn. (lähde: https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/#:~:text=The%20%2Fmedia%20directory%20contains%20subdirectories,the%20CD%20inside%20this%20directory.)
+
 
 # Lähteet
 https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 https://dev.to/xeroxism/how-to-install-terminator-a-linux-terminal-emulator-on-steroids-1m3h   (täältä löysin Terminator-ohjelman)
 https://steemit.com/linux/@netscape101/download-music-to-mp3-with-the-command-line-in-linux
+https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/#:~:text=The%20%2Fmedia%20directory%20contains%20subdirectories,the%20CD%20inside%20this%20directory.
