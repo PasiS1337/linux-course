@@ -43,7 +43,7 @@ Sitten kävin /home/pasis/ hakemistossa ja kävin katsomassa mitä /downloads/ k
 Sitten kävin katsomassa /var/cache/man/fi sisältä ja sieltä löytyi tälläinen
 
 ![Alt Text](images/LessImage5.png)
-![Alt Text](images/LessImage6.png)
+![Alt Text](images/LessImage4.png)
 
 
 
