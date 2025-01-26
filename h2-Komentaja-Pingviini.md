@@ -33,7 +33,7 @@ Ja vielä yksi tärkeä hakemisto on /var/log/, joka sisältää järjestelmän 
 
 Ensiksi kävin katsomassa /etc directoryä, ja avasin 
 
-![Alt Text](images/LessImage1.png)
+![Alt Text](images/lessImage1.png)
 ![Alt Text](images/LessImage2.png)
 
 
