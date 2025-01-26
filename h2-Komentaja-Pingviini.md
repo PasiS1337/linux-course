@@ -38,7 +38,7 @@ Ensiksi kävin katsomassa /etc directoryä, ja avasin locale.conf tiedoston
 <br>
 Sitten kävin /home/pasis/ hakemistossa ja kävin katsomassa mitä /downloads/ kansiosta löytyy, ja sieltä löytyi aikaisemmin ladattu .mp3 tiedosto
 
-![Alt Text](LessImage3.png)
+![Alt Text](images/LessImage3.png)
 
 
 
