@@ -16,7 +16,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apache2, ja menemällä browserissa http://localhost sain näkyviin sen default sivun, mikä näkyy kun Apache on onnistuneesti asennettuna, mutta alettiin jo tunnilla tekemään tuota name-based virtual hostia niin en saa nyt kuvaa siitä, mutta tälläinen sivu oli: (kuva otettu netistä) 
 
-![Alt Text](images/your-image-name.png)
+![Alt Text](images/Week3image1.jpg)
 
 
 
