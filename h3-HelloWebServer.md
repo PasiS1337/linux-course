@@ -22,7 +22,7 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 ----------------------LAIT TÄHÄN SITKU SAAN TON NAME BASED VIRTUAL HOSTIN TEHTYY NI TIETOO NIIST LOKEIST--------
 
-# c) tehtävä
+# c) ja e) tehtävä  --Name-based virtual hosting + valid html5 page
 
 Aloitin menemällä /etc/apache2/sites-enabled ja käytin komentoa $ sudo a2dissite 000-default.conf, jolla otin sen default localhost sivun pois käytöstä ja tein sinne uuden tiedoston nimeltä hattu.example.com.conf. Sen jälkeen laitoin kyseisen tiedoston sisälle seuraavat tiedot:
 
@@ -34,9 +34,11 @@ Sen jälkeen kävin netistä vaan googlaamalla default html page template, ja pa
 
 ![Alt Text](images/Week3image3.png)
 
-ja localhostiin menemässä browserissa näyttää nyt tältä
+ja localhostiin menemällä browserissa näyttää nyt tältä
 
 ![Alt Text](images/Week3image4.png)
+
+Elikkäs kaikki toimii niinkuin pitääkin
 
 
 
