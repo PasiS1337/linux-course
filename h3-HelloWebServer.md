@@ -24,7 +24,7 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 # c) tehtävä
 
-
+Aloitin menemällä /etc/apache2/sites-enabled ja käytin komentoa sudo a2dissite 000-default.conf, jolla otin sen default localhost sivun pois käytöstä ja tein sinne uuden tiedoston nimeltä hattu.example.com.conf. Sen jälkeen laitoin kyseisen tiedoston sisälle 
 
 
 
