@@ -32,7 +32,7 @@ Sen jälkeen komennolla $ sudo a2ensite hattu.example.com ja restarttia komennol
 
 Sen jälkeen kävin netistä vaan googlaamalla default html page template, ja pastesin koodin sinne index.html tiedoston sisälle niin siitä saatiin tuo validi html5 sivu.
 
-![Alt Text](images/Week3image3.jpg)
+![Alt Text](images/Week3image3.png)
 
 
 
