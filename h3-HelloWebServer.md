@@ -20,6 +20,10 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 # b) tehtävä - lokit
 
+----------------------LAIT TÄHÄN SITKU SAAN TON NAME BASED VIRTUAL HOSTIN TEHTYY NI TIETOO NIIST LOKEIST--------
+
+# c) tehtävä
+
 
 
 
