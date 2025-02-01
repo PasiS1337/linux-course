@@ -18,6 +18,9 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 ![Alt Text](images/Week3image1.jpg)
 
+# b) tehtävä - lokit
+
+
 
 
 
