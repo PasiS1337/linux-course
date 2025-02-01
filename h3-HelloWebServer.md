@@ -34,6 +34,10 @@ Sen jälkeen kävin netistä vaan googlaamalla default html page template, ja pa
 
 ![Alt Text](images/Week3image3.png)
 
+ja localhostiin menemässä browserissa näyttää nyt tältä
+
+![Alt Text](images/Week3image4.png)
+
 
 
 
