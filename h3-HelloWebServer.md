@@ -22,6 +22,10 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 ![Alt Text](images/Week3image8.png)
 
+tuo "GET / HTTP/1.1" 200 Meinaa, että HTTP GET requesti tehtiin sivulle, (sivu ladattiin), ja tuo numero 200 meinaa, että se oli onnistunut. (Lähde: https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019) sen jälkeen oleva Mozzilla/5.0 kertoo browserin ja sen version. Seuraavaksi on X11; Linux x86_64. Tuo X11 on versio 11 X window systemistä, ja se on pala softaa joka kommunikoi todella alhaisella tasolla koneen video hardwaren kanssa ja näyttää ruudulla pikseleitä (tai näin ainakin itse ymmärsin sen)" ----- "X Window System is that piece of software which talks to your video hardware and displays bitmapped graphics on your monitor. It underlies your UNIX/Linux desktop environment (e.g. GNOME, KDE, Xfce, etc.) and graphical applications, all of which talk to X at a very low level in order to display graphics on the screen." (lähde: https://unix.stackexchange.com/questions/63550/x11-platform-in-google-account-activity)  Linux x86_64 on käyttöjärjestelmä, jolta requesti tuli.  
+
+
+
 # c) ja e) tehtävä  --Name-based virtual hosting + valid html5 page
 
 Aloitin menemällä /etc/apache2/sites-enabled ja käytin komentoa $ sudo a2dissite 000-default.conf, jolla otin sen default localhost sivun pois käytöstä ja tein sinne uuden tiedoston nimeltä hattu.example.com.conf. Sen jälkeen laitoin kyseisen tiedoston sisälle seuraavat tiedot:
@@ -62,3 +66,4 @@ Googlasin tuon AH00492 errorin ja siellä sanottiin, että tuo AH00492 shutting 
 https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/ <br>
 https://httpd.apache.org/docs/2.4/vhosts/name-based.html <br>
 https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name <br>
+https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019 <br>
