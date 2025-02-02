@@ -44,6 +44,8 @@ Elikkäs kun koitin alkaa tehdä tuota b) tehtävää (teen sen vasta noiden c) 
 
 ![Alt Text](images/Week3image5.png)
 
+Tämän jälkeen googlasin kyseisen errorin, joka johti minut suoraan (https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name) -sivulle, josta löytyikin ohjeet, millä sain tuon errorin korjattua. Ohjeissa luki, että täytyy mennä /etc/apache2/apache2.conf tiedostoon ja tiedoston loppuun lisätä "ServerName 127.0.0.1" joten kävin tekemässä ton, ja sitten komennolla $ sudo apache2ctl configtest kyseinen error-viesti ei tullut enään näkyviin. 
+
 
 
 
