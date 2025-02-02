@@ -66,7 +66,9 @@ Googlasin tuon AH00492 errorin ja siellä sanottiin, että tuo AH00492 shutting 
 
 # f) tehtävä -- 
 
-Curl komennossa tuo aloitus c- meinaa, että se on client-sided ohjelma ja tuo URL lopussa (cURL) meinaa, että se toimii URLien kanssa lähettämällä/lataamalla dataa. Curl "insert-random-sivu-tähän" lataa sen sivun ja näyttää sen html-koodin suoraan terminaalissa. 
+Curl komennossa tuo aloitus c- meinaa, että se on client-sided ohjelma ja tuo URL lopussa (cURL) meinaa, että se toimii URLien kanssa lähettämällä/lataamalla dataa. Curl "insert-random-sivu-tähän" lataa sen sivun ja näyttää sen html-koodin suoraan terminaalissa. curl -I taas näyttää vain sivun header-tiedot 
+
+![Alt Text](images/Week3image9.png)
 
 # Lähteet
 
