@@ -22,7 +22,11 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 ![Alt Text](images/Week3image8.png)
 
-tuo "GET / HTTP/1.1" 200 Meinaa, että HTTP GET requesti tehtiin sivulle, (sivu ladattiin), ja tuo numero 200 meinaa, että se oli onnistunut. (Lähde: https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019) sen jälkeen oleva Mozzilla/5.0 kertoo browserin ja sen version. Seuraavaksi on X11; Linux x86_64. Tuo X11 on versio 11 X window systemistä, ja se on pala softaa joka kommunikoi todella alhaisella tasolla koneen video hardwaren kanssa ja näyttää ruudulla pikseleitä (tai näin ainakin itse ymmärsin sen)" ----- "X Window System is that piece of software which talks to your video hardware and displays bitmapped graphics on your monitor. It underlies your UNIX/Linux desktop environment (e.g. GNOME, KDE, Xfce, etc.) and graphical applications, all of which talk to X at a very low level in order to display graphics on the screen." (lähde: https://unix.stackexchange.com/questions/63550/x11-platform-in-google-account-activity)  Linux x86_64 on käyttöjärjestelmä, jolta requesti tuli.  
+tuo "GET / HTTP/1.1" 200 Meinaa, että HTTP GET requesti tehtiin sivulle, (sivu ladattiin), ja tuo numero 200 meinaa, että se oli onnistunut. (Lähde: https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019) sen jälkeen oleva Mozzilla/5.0  on user agent, joka kertoo minkälaista ohjelmistoa selain käyttää. Seuraavaksi on X11; Linux x86_64. Tuo X11 on versio 11 X window systemistä, ja se on pala softaa joka kommunikoi todella alhaisella tasolla koneen video hardwaren kanssa ja näyttää ruudulla pikseleitä (tai näin ainakin itse ymmärsin sen)" ----- "X Window System is that piece of software which talks to your video hardware and displays bitmapped graphics on your monitor. It underlies your UNIX/Linux desktop environment (e.g. GNOME, KDE, Xfce, etc.) and graphical applications, all of which talk to X at a very low level in order to display graphics on the screen." (lähde: https://unix.stackexchange.com/questions/63550/x11-platform-in-google-account-activity)  Linux x86_64 on käyttöjärjestelmä, jolta requesti tuli.  
+
+tuo rv:128: on revision number, ja jokaisella user-agentilla on oma erillinen numero, mistä erottaa mikä on mikäkin ja tuo Gecko on browser engine, jonka on kehittänyt Mozzilla ja se on käytössä firefoxissa sekä monissa muissa eri projekteissa (lähde: https://firefox-source-docs.mozilla.org/overview/gecko.html)  
+
+
 
 
 
@@ -67,3 +71,4 @@ https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-
 https://httpd.apache.org/docs/2.4/vhosts/name-based.html <br>
 https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name <br>
 https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019 <br>
+https://firefox-source-docs.mozilla.org/overview/gecko.html <br>
