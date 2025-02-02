@@ -64,6 +64,9 @@ Googlasin tuon AH00492 errorin ja siellä sanottiin, että tuo AH00492 shutting 
 
 ![Alt Text](images/Week3image8.png)
 
+# f) tehtävä -- 
+
+Curl komennossa tuo aloitus c- meinaa, että se on client-sided ohjelma ja tuo URL lopussa (cURL) meinaa, että se toimii URLien kanssa lähettämällä/lataamalla dataa. Curl "insert-random-sivu-tähän" lataa sen sivun ja näyttää sen html-koodin suoraan terminaalissa. 
 
 # Lähteet
 
@@ -72,3 +75,4 @@ https://httpd.apache.org/docs/2.4/vhosts/name-based.html <br>
 https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name <br>
 https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019 <br>
 https://firefox-source-docs.mozilla.org/overview/gecko.html <br>
+https://supporthost.com/curl-command-linux/ <br>
