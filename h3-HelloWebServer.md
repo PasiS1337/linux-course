@@ -59,6 +59,6 @@ Googlasin tuon AH00492 errorin ja siellä sanottiin, että tuo AH00492 shutting 
 
 # Lähteet
 
-https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/ 
-https://httpd.apache.org/docs/2.4/vhosts/name-based.html
-https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name
+https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/ <br>
+https://httpd.apache.org/docs/2.4/vhosts/name-based.html <br>
+https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name <br>
