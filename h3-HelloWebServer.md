@@ -46,7 +46,7 @@ ja localhostiin menemällä browserissa näyttää nyt tältä
 
 ![Alt Text](images/Week3image4.png)
 
-## Pieni error, minkä kohtasin
+## Pieni error, minkä kohtasin (piti selvittää, ennenku pystyin tehä ton b) tehtävän
 
 Elikkäs kun koitin alkaa tehdä tuota b) tehtävää (teen sen vasta noiden c) ja e) tehtävien jälkeen niin kun koitin saada noita lokitietoja näkyviin niin jostain syystä /var/log/apache2/access.logiin ei ilmestynyt yhtään uusia lokeja, vaikka shift-reloadilla koitin päivittää sekä localhost, että hattu.example.com sivua browserissa. Tämän jälkeen katsoin komennolla $ sudo apache2ctl configtest, jos löytyisi jotain mikä voisi selittää asian ja sinne ilmestyi tälläinen viesti
 
