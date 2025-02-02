@@ -48,7 +48,9 @@ Tämän jälkeen googlasin kyseisen errorin, joka johti minut suoraan (https://w
 
 ![Alt Text](images/Week3image6.png)
 
+Jostain syystä en silti saa access.logiin mitään uusia lokeja, vaikka shift-reloadilla reloadaan localhost sivua. error.logiin on tullut tälläistä näkyviin 
 
+![Alt Text](images/Week3image7.png)
 
 
 
