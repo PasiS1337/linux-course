@@ -38,7 +38,9 @@ ja localhostiin menemällä browserissa näyttää nyt tältä
 
 ![Alt Text](images/Week3image4.png)
 
-Elikkäs kaikki toimii niinkuin pitääkin
+## Pieni error, minkä kohtasin
+
+Elikkäs kun koitin alkaa tehdä tuota b) tehtävää (teen sen vasta noiden c) ja e) tehtävien jälkeen niin kun koitin saada noita lokitietoja näkyviin niin jostain syystä /var/log/apache2/access.logiin ei ilmestynyt yhtään uusia lokeja, vaikka shift-reloadilla koitin päivittää sekä localhost, että hattu.example.com sivua browserissa. 
 
 
 
@@ -49,4 +51,4 @@ Elikkäs kaikki toimii niinkuin pitääkin
 
 https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/ 
 https://httpd.apache.org/docs/2.4/vhosts/name-based.html
-
+https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name
