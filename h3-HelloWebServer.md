@@ -20,7 +20,7 @@ Asennettiin tuo Apache jo tunnin aikana komennolla $ sudo apt-get -y install apa
 
 # b) tehtävä - lokit
 
-----------------------LAIT TÄHÄN SITKU SAAN TON NAME BASED VIRTUAL HOSTIN TEHTYY NI TIETOO NIIST LOKEIST--------
+![Alt Text](images/Week3image8.png)
 
 # c) ja e) tehtävä  --Name-based virtual hosting + valid html5 page
 
