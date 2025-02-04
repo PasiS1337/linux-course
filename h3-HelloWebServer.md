@@ -56,11 +56,7 @@ Tämän jälkeen googlasin kyseisen errorin, joka johti minut suoraan (https://w
 
 ![Alt Text](images/Week3image6.png)
 
-Jostain syystä en silti saa access.logiin mitään uusia lokeja, vaikka shift-reloadilla reloadaan localhost sivua. error.logiin on tullut tälläistä näkyviin 
-
-![Alt Text](images/Week3image7.png)
-
-Googlasin tuon AH00492 errorin ja siellä sanottiin, että tuo AH00492 shutting down gracefully viesti tulee kun restarttaa tuon apache2 palvelimen. ----------Jostain syystä (en osaa sanoa miksi) niin nyt alkoi tulemaan access.logiin tietoja kun reloadasin sivua. Eli vissiin viimeisimmän apache2 restartin jälkeen alkoi toimia. 
+nyt alkoi tulemaan access.logiin tietoja kun reloadasin sivua. Eli vissiin viimeisimmän apache2 restartin jälkeen alkoi toimia. 
 
 ![Alt Text](images/Week3image8.png)
 
