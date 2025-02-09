@@ -57,6 +57,10 @@ Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän
 ![Alt Text](images/Week4image5.png)
 
 Sitten menin /etc/apache2/sites-availableen ja tein uuden .conf tiedoston jonka sisälle 
+<br>
+![Alt Text](images/Week4image8.png)
+<br>
+Tämän jälkeen kävin tekemässä /home/pasi/publicsites/pasiboi/index.html tiedostopolun sekä tuon index.html tiedoston, jonka sisälle heitin vaan sellasen default HTML5 templaten
 
 
 Taas kävi sama ongelma, kuin viime viikon tehtävissä eli error AH00558, Kun käytin komentoa sudo apache2ctl configtest
