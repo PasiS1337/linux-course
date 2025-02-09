@@ -39,6 +39,8 @@ Lopuksi annoin tunnistettavan host-nimen sille, ja sen jälkeen create droplet, 
 
 Ensiksi otin yhteyden virtuaalipalvelimeeni komennolla $ ssh root@134.122.56.192 ja sen jälkeen tein uuden käyttäjän komennolla $ sudo adduser pasi, ja lisäsin tuon käyttäjän sudo-ryhmään komennolla $ sudo adduser pasi sudo. Sitten root# sudo cp -rvn /root/.ssh/ /home/pasi/ sekä 
 root# sudo chown -R pasi:pasi /home/pasi/ komennoilla kopioin root:in ssh-asetukset, jotta pääsen kirjautumaan tuolla uudella omalla käyttäjällä sisään. (lähde: https://terokarvinen.com/linux-palvelimet/  ---kohta h4)
+<br>
+Tämän jälkeen exit-rootilta ja kirjauduin ssh pasi@134.122.56.192 sisään, jonka jälkeen sudo apt-get update; sudo apt-get dist-upgrade; sudo systemctl reboot -komennoilla viimeisimmät päivitykset voimaan ja tämän jälkeen palomuurin asennus, ja porttien avaaminen komennoilla sudo ufw allow 22/tcp, sudo ufw allow 80/tcp, ja tämän jälkeen sudo ufw enable
 
 
 
@@ -46,3 +48,5 @@ root# sudo chown -R pasi:pasi /home/pasi/ komennoilla kopioin root:in ssh-asetuk
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
+https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+https://terokarvinen.com/linux-palvelimet/
