@@ -48,6 +48,7 @@ Disclaimer: En oo varma tarviiko tota sudo ufw allow openSSH-komentoa, jota digi
 <br>
 Seuraavaksi Rootin sulkeminen komennolla $ sudo usermod --lock root 
 
+![Alt Text](images/Week4image4.png)
 
 
 
