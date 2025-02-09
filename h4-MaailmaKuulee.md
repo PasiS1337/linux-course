@@ -82,8 +82,8 @@ Palautettuani tehtävän olin saanut kommentin, ja siinä huomautettiin, että o
     PermitRootLogin no <br>
     <br>
 $ sudo service ssh restart
-
-
+<br>
+![Alt Text](images/Week4image10.png)
 
 
 # Lähteet
