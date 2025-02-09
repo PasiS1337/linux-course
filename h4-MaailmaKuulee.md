@@ -58,7 +58,7 @@ Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän
 
 Sitten menin /etc/apache2/sites-availableen ja tein uuden .conf tiedoston
 
-![Alt Text](images/Week4image6.png)
+![Alt Text](images/Week4image7.png)
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
