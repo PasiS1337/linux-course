@@ -56,6 +56,10 @@ Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän
 
 ![Alt Text](images/Week4image5.png)
 
+Sitten menin /etc/apache2/sites-availableen ja tein uuden .conf tiedoston
+
+![Alt Text](images/Week4image6.png)
+
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
