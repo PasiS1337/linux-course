@@ -59,6 +59,9 @@ Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän
 Sitten menin /etc/apache2/sites-availableen ja tein uuden .conf tiedoston jonka sisälle 
 
 
+Taas kävi sama ongelma, kuin viime viikon tehtävissä eli error AH00558, Kun käytin komentoa sudo apache2ctl configtest
+![Alt Text](images/Week4image7.png)
+
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
