@@ -84,7 +84,11 @@ Palautettuani tehtävän olin saanut kommentin, ja siinä huomautettiin, että o
 $ sudo service ssh restart<br>
 <br>
 Tämän jälkeen kun ei vieläkään toiminut, kävin error.logeissa, ja sieltä tuli sama AH00035 error kuin aikaisemmin. Kävin tämän jälkeen ja testasin muuttaa html-koodia tuolla /publicsites/pasiboi/index.html tiedostossa, ja kun yritin tallentaa muutokset niin tuli viesti: Permission denied, would u like to save using sudo? --Mutta muistan, että Tero mainitsi jollain tunnilla että /home/pasi/ directoryn sisällä ei koskaan kannata käyttää sudoa, niin pastesin tuon errorin chatGPT:hen, koska en saanut netistä löytyvistä lähteistä selkoa asiaan. Siellä neuvottiin tällä komennolla katsomaan, kuka omistaa muokkausoikeudet directoryyn, tuli tälläinen
-![Alt Text](images/Week4image10.png)
+![Alt Text](images/Week4image10.png) <br>
+<br>
+Sitten vaihdoin muokkausoikeudet pasille, ja sain tallennettua muokatun HTML-koodin index.html tiedostoon, restarttasin apachen ja tämän jälkeen kun menin browseriin niin sain sen index.html sivun näkyviin vihdoinkin.
+
+# C) tehtävän TLDR: Missasin ohjeissa tärkeän artikkelin, joku kommenteissa huomautti. --> Tuli ongelmia saada index.html sivu näkyviin virtuaalipalvelimen IP-osoitteella, vika johtui riittämättömistä oikeuksista pasi-käyttäjällä, tiedostot olivat oikeissa paikoissa ja oikein konfiguroitu sekä palomuurin portit oikein avattu.
 
 
 # Lähteet
