@@ -22,6 +22,9 @@ f) Susanna asentaa uusimmat päivitykset virtuaalipalvelimelleen
 # a) tehtävä - Virtuaalipalvelimen vuokraus (DigitalOcean)
 
 Aloitin rekisteröitymällä DigitalOcean.com -sivulle, ja sen jälkeen linkitin GitHub-education accountin tuohon DigitalOcean accounttiin, jonka jälkeen sain viestin, että 200$ arvosta credittejä on annettu käyttöön seuraavan vuoden ajaksi. 
+Sen jälkeen menin kohtaan Droplets (jostain syystä VPS on nimellä droplets-tällä sivustolla) ja lähdin valitsemaan minkälaisen virtuaaliserverin haluan vuokrata, ja tottakai tälleen ensikertalaisena ja testaamiskäyttöön valitsin halvimman, joka on 6$/kk tällä hetkellä. 
+
+![Alt Text](images/Week4image1.png)
 
 
 # Lähteet
