@@ -42,7 +42,9 @@ root# sudo chown -R pasi:pasi /home/pasi/ komennoilla kopioin root:in ssh-asetuk
 <br>
 <br>
 <br>
-Tämän jälkeen exit-rootilta ja kirjauduin ssh pasi@134.122.56.192 sisään, jonka jälkeen sudo apt-get update; sudo apt-get dist-upgrade; sudo systemctl reboot -komennoilla viimeisimmät päivitykset voimaan ja tämän jälkeen palomuurin asennus, ja porttien avaaminen komennoilla sudo ufw allow 22/tcp, sudo ufw allow 80/tcp, sudo ufw allow openSSH ja tämän jälkeen sudo ufw enable. (Lähde https://terokarvinen.com/linux-palvelimet/  sekä https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)  Disclaimer: En oo varma tarviiko tota sudo ufw allow openSSH-komentoa, jota digitaloceanin sivustolla käytettiin, vai riittääkö vaan tuo porttien 22 ja 80 avaaminen)
+Tämän jälkeen exit-rootilta ja kirjauduin ssh pasi@134.122.56.192 sisään, jonka jälkeen sudo apt-get update; sudo apt-get dist-upgrade; sudo systemctl reboot -komennoilla viimeisimmät päivitykset voimaan ja tämän jälkeen palomuurin asennus, ja porttien avaaminen komennoilla sudo ufw allow 22/tcp, sudo ufw allow 80/tcp, sudo ufw allow openSSH ja tämän jälkeen sudo ufw enable. (Lähde https://terokarvinen.com/linux-palvelimet/  sekä https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands) <br>
+<br>
+Disclaimer: En oo varma tarviiko tota sudo ufw allow openSSH-komentoa, jota digitaloceanin sivustolla käytettiin, vai riittääkö vaan tuo porttien 22 ja 80 avaaminen)
 
 
 
