@@ -52,6 +52,7 @@ Seuraavaksi Rootin sulkeminen komennolla $ sudo usermod --lock root
 
 #  c) tehtävä - Apachen asennus + default-sivun korvaaminen uudella
 
+Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän jälkeen laitetaan se päälle $ sudo systemctl enable apache2
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
