@@ -50,7 +50,7 @@ Seuraavaksi Rootin sulkeminen komennolla $ sudo usermod --lock root
 
 ![Alt Text](images/Week4image4.png)
 
-
+#  c) tehtävä - Apachen asennus + default-sivun korvaaminen uudella
 
 
 # Lähteet
