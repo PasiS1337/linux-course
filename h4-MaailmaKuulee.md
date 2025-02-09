@@ -99,3 +99,4 @@ Sitten vaihdoin muokkausoikeudet pasille, ja sain tallennettua muokatun HTML-koo
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands <br>
 https://terokarvinen.com/linux-palvelimet/
+https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
