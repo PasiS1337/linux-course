@@ -37,7 +37,10 @@ Lopuksi annoin tunnistettavan host-nimen sille, ja sen jälkeen create droplet, 
 
 # b) tehtävä - Alkutoimet + Palomuuri + Root-tunnuksen sulkeminen + ohjelmien päivitys
 
-Ensiksi otin yhteyden virtuaalipalvelimeeni komennolla $ ssh root@134.122.56.192 ja sen jälkeen tein uuden käyttäjän komennolla $ sudo adduser pasi, ja lisäsin tuon käyttäjän sudo-ryhmään komennolla $ sudo adduser pasi sudo
+Ensiksi otin yhteyden virtuaalipalvelimeeni komennolla $ ssh root@134.122.56.192 ja sen jälkeen tein uuden käyttäjän komennolla $ sudo adduser pasi, ja lisäsin tuon käyttäjän sudo-ryhmään komennolla $ sudo adduser pasi sudo. Sitten root# sudo cp -rvn /root/.ssh/ /home/pasi/ sekä 
+root# sudo chown -R pasi:pasi /home/pasi/ komennoilla
+
+
 
 
 
