@@ -60,7 +60,7 @@ Sitten menin /etc/apache2/sites-availableen ja tein uuden .conf tiedoston jonka 
 <br>
 ![Alt Text](images/Week4image8.png)
 <br>
-Sitten sudo a2ensite pasiboi.conf ja menin /sites-enabled hakemistoon, jossa sudo a2dissite 000-default.conf 
+Sitten sudo a2ensite pasiboi.conf ja menin /sites-enabled hakemistoon, jossa sudo a2dissite 000-default.conf <br>
 Tämän jälkeen kävin tekemässä /home/pasi/publicsites/pasiboi/index.html tiedostopolun sekä tuon index.html tiedoston, jonka sisälle heitin vaan sellasen default HTML5 templaten
 
 
