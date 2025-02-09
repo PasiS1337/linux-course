@@ -75,6 +75,9 @@ tämän jälkeen tuo AH00558 error lähti pois kun käytin sudo apache2ctl confi
 <br>
 Elikkäs access to root denied errori tuli, kokeilin ettii netistä tietoo, mut en löytäny vastausta ongelmaan, koitin myös poistaa 000-default.conf tiedoston sisällä olevat tiedostot, jos se jostain syystä olisi häirinnyt, mutta ei siltikään toimi --Testailen myöhemmin lisää/katsotaan tunnilla jos joillakin muilla on sama ongelma
 
+# Jatkoa c) tehtävälle  --- Palautuksen jälkeen kommenttien neuvoja testataan
+
+
 
 
 
