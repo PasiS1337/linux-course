@@ -77,7 +77,11 @@ Elikkäs access to root denied errori tuli, kokeilin ettii netistä tietoo, mut 
 
 # Jatkoa c) tehtävälle  --- Palautuksen jälkeen kommenttien neuvoja testataan
 
-
+Palautettuani tehtävän olin saanut kommentin, ja siinä huomautettiin, että olin unohtanut yhden artikkelin lukea ohjeista kokonaan, ja tämän takia myös en ollut laittanut PermitRootLogin kohtaa pois päältä. Kävin sen tekemässä komennoilla $ sudoedit /etc/ssh/sshd_config <br>
+    <br>
+    PermitRootLogin no <br>
+    <br>
+$ sudo service ssh restart
 
 
 
