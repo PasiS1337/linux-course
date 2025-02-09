@@ -46,6 +46,7 @@ Tämän jälkeen exit-rootilta ja kirjauduin ssh pasi@134.122.56.192 sisään, j
 <br>
 Disclaimer: En oo varma tarviiko tota sudo ufw allow openSSH-komentoa, jota digitaloceanin sivustolla käytettiin, vai riittääkö vaan tuo porttien 22 ja 80 avaaminen)
 <br>
+<br>
 Seuraavaksi Rootin sulkeminen komennolla $ sudo usermod --lock root 
 
 
