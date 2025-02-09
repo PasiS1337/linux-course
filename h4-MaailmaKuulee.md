@@ -21,7 +21,7 @@ f) Susanna asentaa uusimmat päivitykset virtuaalipalvelimelleen
 <br>
 <br>
 
-Karvinen 2012: First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS:
+Karvinen 2012: First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS: (https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 
 tiivistelmä: Teron ohjeet miten kirjautua vuokratulle VPS:lle ja tehdä aloitustoimenpiteet kuten uuden käyttäjän tekeminen, palomuurin asennus, porttien avaaminen sekä rootin sulkeminen.
 
