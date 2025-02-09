@@ -80,5 +80,5 @@ Elikkäs access to root denied errori tuli, kokeilin ettii netistä tietoo, mut 
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
-https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands <br>
 https://terokarvinen.com/linux-palvelimet/
