@@ -81,8 +81,9 @@ Palautettuani tehtävän olin saanut kommentin, ja siinä huomautettiin, että o
     <br>
     PermitRootLogin no <br>
     <br>
-$ sudo service ssh restart
+$ sudo service ssh restart<br>
 <br>
+Tämän jälkeen kun ei vieläkään toiminut, kävin error.logeissa, ja sieltä tuli sama AH00035 error kuin aikaisemmin. Kävin tämän jälkeen ja testasin muuttaa html-koodia tuolla /publicsites/pasiboi/index.html tiedostossa, ja kun yritin tallentaa muutokset niin tuli viesti: Permission denied, would u like to save using sudo? --Mutta muistan, että Tero mainitsi jollain tunnilla että /home/pasi/ directoryn sisällä ei koskaan kannata käyttää sudoa, niin pastesin tuon errorin chatGPT:hen, koska en saanut netistä löytyvistä lähteistä selkoa asiaan. Siellä neuvottiin tällä komennolla katsomaan, kuka omistaa muokkausoikeudet directoryyn, tuli tälläinen
 ![Alt Text](images/Week4image10.png)
 
 
