@@ -18,6 +18,9 @@ e) Seuraavaksi Susanna asentaa apache web-palvelimen sekä korvaa sen default-et
 
 f) Susanna asentaa uusimmat päivitykset virtuaalipalvelimelleen
 
+<br>
+<br>
+
 Karvinen 2012: First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS:
 
 tiivistelmä: Teron ohjeet miten kirjautua vuokratulle VPS:lle ja tehdä aloitustoimenpiteet kuten uuden käyttäjän tekeminen, palomuurin asennus, porttien avaaminen sekä rootin sulkeminen.
