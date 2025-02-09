@@ -88,7 +88,7 @@ Tämän jälkeen kun ei vieläkään toiminut, kävin error.logeissa, ja sieltä
 <br>
 Sitten vaihdoin muokkausoikeudet pasille, ja sain tallennettua muokatun HTML-koodin index.html tiedostoon, restarttasin apachen ja tämän jälkeen kun menin browseriin niin sain sen index.html sivun näkyviin vihdoinkin.
 
-# C) tehtävän TLDR: Missasin ohjeissa tärkeän artikkelin, joku kommenteissa huomautti. --> Tuli ongelmia saada index.html sivu näkyviin virtuaalipalvelimen IP-osoitteella, vika johtui riittämättömistä oikeuksista pasi-käyttäjällä, tiedostot olivat oikeissa paikoissa ja oikein konfiguroitu sekä palomuurin portit oikein avattu.
+### C) tehtävän TLDR: Missasin ohjeissa tärkeän artikkelin, joku kommenteissa huomautti. --> Tuli ongelmia saada index.html sivu näkyviin virtuaalipalvelimen IP-osoitteella, vika johtui riittämättömistä oikeuksista pasi-käyttäjällä, tiedostot olivat oikeissa paikoissa ja oikein konfiguroitu sekä palomuurin portit oikein avattu.
 
 
 # Lähteet
