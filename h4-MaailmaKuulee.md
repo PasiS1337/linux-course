@@ -26,6 +26,10 @@ Sen j채lkeen menin kohtaan Droplets (jostain syyst채 VPS on nimell채 droplets-t�
 
 ![Alt Text](images/Week4image1.png)
 
+Seuraavaksi sain valita kirjautumisen ssh-avaimella tai salasanalla, ja kuten tunnilla n채ytettiin, asensin ensiksi $ sudo apt-get install openssh-client ja sen j채lkeen komennolla $ ssh-keygen loin itselleni ssh-avaimen.
+
+
+
 
 # L채hteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
