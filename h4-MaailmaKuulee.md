@@ -30,6 +30,10 @@ Seuraavaksi sain valita kirjautumisen ssh-avaimella tai salasanalla, ja kuten tu
 
 ![Alt Text](images/Week4image2.png)
 
+Lopuksi annoin tunnistettavan host-nimen sille, ja sen jälkeen create droplet, ja kesti alle minuutti, että sain IP-osoitteen näkyviin. 
+
+![Alt Text](images/Week4image3.png)
+
 
 
 
