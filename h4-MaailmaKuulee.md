@@ -85,6 +85,7 @@ $ sudo service ssh restart
 
 
 
+
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands <br>
