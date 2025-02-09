@@ -35,7 +35,7 @@ Lopuksi annoin tunnistettavan host-nimen sille, ja sen jälkeen create droplet, 
 ![Alt Text](images/Week4image3.png)
 
 
-# b) tehtävä - Alkutoimet + Palomuuri + Root-tunnuksen sulkeminen + ohjelmien päivitys
+# b) tehtävä - Alkutoimet + Palomuuri + Root-tunnuksen sulkeminen + ohjelmien päivitys   
 
 Ensiksi otin yhteyden virtuaalipalvelimeeni komennolla $ ssh root@134.122.56.192 ja sen jälkeen tein uuden käyttäjän komennolla $ sudo adduser pasi, ja lisäsin tuon käyttäjän sudo-ryhmään komennolla $ sudo adduser pasi sudo. Sitten root# sudo cp -rvn /root/.ssh/ /home/pasi/ sekä 
 root# sudo chown -R pasi:pasi /home/pasi/ komennoilla kopioin root:in ssh-asetukset, jotta pääsen kirjautumaan tuolla uudella omalla käyttäjällä sisään. (lähde: https://terokarvinen.com/linux-palvelimet/  ---kohta h4)
@@ -50,7 +50,7 @@ Seuraavaksi Rootin sulkeminen komennolla $ sudo usermod --lock root
 
 ![Alt Text](images/Week4image4.png)
 
-#  c) tehtävä - Apachen asennus + default-sivun korvaaminen uudella
+#  c) tehtävä - Apachen asennus + default-sivun korvaaminen uudella     -------Tuli ongelmia, TLDR: löytyy seuraavan kappaleen lopusta!---------
 
 Seuraavaksi asennetaan apache2 komennolla $ sudo apt install apache2, ja tämän jälkeen laitetaan se päälle $ sudo systemctl enable apache2
 
@@ -75,7 +75,7 @@ tämän jälkeen tuo AH00558 error lähti pois kun käytin sudo apache2ctl confi
 <br>
 Elikkäs access to root denied errori tuli, kokeilin ettii netistä tietoo, mut en löytäny vastausta ongelmaan, koitin myös poistaa 000-default.conf tiedoston sisällä olevat tiedostot, jos se jostain syystä olisi häirinnyt, mutta ei siltikään toimi --Testailen myöhemmin lisää/katsotaan tunnilla jos joillakin muilla on sama ongelma
 
-# Jatkoa c) tehtävälle  --- Palautuksen jälkeen kommenttien neuvoja testataan
+# Jatkoa c) tehtävälle  --- Palautuksen jälkeen kommenttien neuvoja testataan (TLDR: löytyy kappaleen lopusta!)
 
 Palautettuani tehtävän olin saanut kommentin, ja siinä huomautettiin, että olin unohtanut yhden artikkelin lukea ohjeista kokonaan, ja tämän takia myös en ollut laittanut PermitRootLogin kohtaa pois päältä. Kävin sen tekemässä komennoilla $ sudoedit /etc/ssh/sshd_config <br>
     <br>
