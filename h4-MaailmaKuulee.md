@@ -70,6 +70,9 @@ Taas kävi sama ongelma, kuin viime viikon tehtävissä eli error AH00558, Kun k
 Viime viikon tehtävissä ratkaisin tämän digitaloceanin sivuilta löytyvien ohjeiden avulla menemällä /etc/apache2/apache2.conf tiedostoon ja lisäämällä ihan vikalle riville ServerName 127.0.0.1, mutta nyt käyn lisäämässä sinne ServerName 134.122.56.192, koska meillä on vuokrattuna tuo virtuaalipalvelin ja saatiin public ipv4-osoite.
 <br>
 tämän jälkeen tuo AH00558 error lähti pois kun käytin sudo apache2ctl configtestiä, mutta jostain syystä 134.122.56.192 ei silti vastaa
+<br>
+![Alt Text](images/Week4image9.png)
+
 
 
 
