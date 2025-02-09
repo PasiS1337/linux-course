@@ -21,6 +21,8 @@ f) Susanna asentaa uusimmat päivitykset virtuaalipalvelimelleen
 
 # a) tehtävä - Virtuaalipalvelimen vuokraus (DigitalOcean)
 
+Aloitin rekisteröitymällä DigitalOcean.com -sivulle, ja sen jälkeen linkitin GitHub-education accountin tuohon DigitalOcean accounttiin, jonka jälkeen sain viestin, että 200$ arvosta credittejä on annettu käyttöön seuraavan vuoden ajaksi. 
+
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
