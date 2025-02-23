@@ -83,6 +83,10 @@ Tuo Time-to-live on namecheap.comilla 60, ja pasisalmela.pro:ssa 1799, mikä vai
 Sitten kävin etsimässä jonkun pienen/keskipienen yrityksen, ja katsoin digillä niiden DNS-tietoja ja huomasin, että heillä on 2 eri IPV4 osoitetta (en osaa kyllä sanoa miksi, esim namecheap.comilla oli vain 1)
 <br>
 ![Alt Text](images/Week5image13.png)
+<br>
+Sitten katsoin digillä redditin tietoja, ja huomasin, että redditillä on 4 eri IPV4 ja 4 eri ipv6-osoitetta
+<br>
+![Alt Text](images/Week5image14.png)
 
 
 
