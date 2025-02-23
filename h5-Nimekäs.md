@@ -62,7 +62,7 @@ Sitten menin /etc/apache2/sites-enabled/pasiboi.conf tiedostoon ja lisäsin sinn
 
 <br>
 <br>
-Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon.
+Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon ja sitten kävin testaamassa niin tuo subdomain toimii (tosin se vie vain kotisivulle mutta ohjeissa sanottiin, että tämä riittää.
 <br>
 <br>
 
