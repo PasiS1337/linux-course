@@ -45,4 +45,9 @@ Olin jo aikasemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemi
 <br>
 ![Alt Text](images/Week5image7.png)
 
+# Lähteet
+https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
+https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/
+https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/
+
 
