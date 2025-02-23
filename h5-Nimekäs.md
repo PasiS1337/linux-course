@@ -65,6 +65,7 @@ Sitten menin /etc/apache2/sites-enabled/pasiboi.conf tiedostoon ja lisäsin sinn
 Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon.
 <br>
 <br>
+
 ![Alt Text](images/Week5image10.png)
 
 
