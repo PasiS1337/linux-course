@@ -37,3 +37,12 @@ Olin jo aikasemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemi
 <br>
 
 ![Alt Text](images/Week5image6.png)
+<br>
+<br>
+
+Tältä näyttää kotisivut sen jälkeen (background-imaget puuttuvat, käyn lisäämässä myöhemmin jos muistan :D
+<br>
+<br>
+![Alt Text](images/Week5image7.png)
+
+
