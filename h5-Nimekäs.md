@@ -74,6 +74,11 @@ Aloitin katsomalla man host ja man dig -sivut, mutta man dig ei näyttänyt mit�
 <br>
 ![Alt Text](images/Week5image11.png)
 <br>
+Vaikuttaa siltä, että host-komento on vähän "heikompi" versio dig:istä, ja sillä ei saa niin paljoa tietoa kuin digillä sivustoiden domain name serveristä. <br>
+<br>
+![Alt Text](images/Week5image12.png)
+<br>
+Tuo Time-to-live on namecheap.comilla 60, ja pasisalmela.pro:ssa 1799, mikä vaikuttaa aika suurelta erolta
 
 
 
