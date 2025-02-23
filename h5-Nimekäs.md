@@ -52,6 +52,13 @@ Seuraavaksi navigoin takas namecheapin sivulle, ja menin siellä kohtaan domain 
 <br>
 <br>
 ![Alt Text](images/Week5image8.png)
+<br>
+<br>
+Sitten kävin etsimässä netistä, että miten saan ne subdomainit aktivoitua, että kun menen esim. tonne services.pasisalmela.pro niin se näyttää sen sivun ja löysin tälläiset ohjeet https://dev.to/tikam02/configuring-domains-and-sub-domains-in-apache-webserver-1bl1 <br>
+<br>
+Sitten menin /etc/apache2/sites-enabled/pasiboi.conf tiedostoon ja lisäsin sinne tuon uuden subdomainin, yllä olevan linkin ohjeiden mukaan 
+
+![Alt Text](images/Week5image9.png)
 
 
 # Lähteet
