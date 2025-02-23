@@ -40,7 +40,7 @@ Olin jo aikasemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemi
 <br>
 <br>
 
-### Tältä näyttää kotisivut sen jälkeen (background-imaget puuttuvat, käyn lisäämässä myöhemmin jos muistan :D
+ Tältä näyttää kotisivut sen jälkeen (background-imaget puuttuvat, käyn lisäämässä myöhemmin jos muistan :D 
 <br>
 <br>
 ![Alt Text](images/Week6image7.png)
