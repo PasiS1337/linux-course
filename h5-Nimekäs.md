@@ -7,3 +7,9 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 - RAM-allokointi virtuaalikoneelle: 8GB
 - virtuaaliselle kovalevylle tilaa jaettu: 150GB
 - VirtualBox-ohjelma käytössä
+
+# a) Tehtävä - Domainin vuokraaminen (Namecheap)
+
+Näköjään Namecheap ei ainakaan toimi Github educationin kanssa (Your university is not eligible) joten aloitin laittamalla oman nimeni Namecheapin domain searchiin ja sieltä tuli monta eri vaihtoehtoa, joista päätin valita pasisalmela.pro🥈
+<br>
+![Alt Text](images/your-image-name.png)
