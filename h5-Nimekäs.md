@@ -71,6 +71,7 @@ Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedosto
 
 Aloitin katsomalla man host ja man dig -sivut, mutta man dig ei näyttänyt mitään niin kävin katsomassa ja se pitää ensiksi asentaa. 
 <br>
+<br>
 ![Alt Text](images/Week5image11.png)
 <br>
 
