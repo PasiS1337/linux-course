@@ -28,3 +28,11 @@ Tämän jälkeen kävin katsomassa whatsmydns.net -sivulta, että onnistuiko tä
 Seuraavaksi kävin kokeilemassa pasisalmela.pro koneeni selaimella, ja sieltä tuli se viime tunnilla tehty testisivu näkyviin.
 
 ![Alt Text](images/Week5image5.png)
+<br>
+<br>
+
+# b ja c) tehtävät (Name based virtual host ja kotisivut)
+
+Olin jo aikasemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemiseen, joten en viittinyt alkaa väsäämään uusiksi tyhjästä noita sivuja vaan kopioin tuolta mun githubista index.html, portfolio.html, services.html sekä styles.css tiedostot ja kävin tekemässä ne tiedostot tuonne /home/pasi/
+
+![Alt Text](images/Week5image6.png)
