@@ -33,7 +33,7 @@ Seuraavaksi kävin kokeilemassa pasisalmela.pro koneeni selaimella, ja sieltä t
 
 # b ja c) tehtävät (Name based virtual host ja kotisivut)
 
-Olin jo aikasemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemiseen, joten en viittinyt alkaa väsäämään uusiksi tyhjästä noita sivuja vaan kopioin tuolta mun githubista index.html, portfolio.html, services.html sekä styles.css tiedostot ja kävin tekemässä ne tiedostot tuonne /home/pasi/publicsites/pasiboi hakemistoon ja pastesin koodit niiden sisälle. <br>
+Olin jo aikaisemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekemiseen, joten en viittinyt alkaa väsäämään uusiksi tyhjästä noita sivuja vaan kopioin tuolta mun githubista index.html, portfolio.html, services.html sekä styles.css tiedostot ja kävin tekemässä ne tiedostot tuonne /home/pasi/publicsites/pasiboi hakemistoon ja pastesin koodit niiden sisälle. <br>
 <br>
 
 ![Alt Text](images/Week5image6.png)
