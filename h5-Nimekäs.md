@@ -48,7 +48,7 @@ Olin jo aikaisemmalla kurssilla käyttänyt hyvän tovin aikaa kotisivujen tekem
 <br>
 ## Seuraavaksi käyn tekemässä subdomainit
 
-Seuraavaksi navigoin takas namecheapin sivulle, ja menin siellä kohtaan domain list --> domain --> Advanced DNS. Kävin lisäämässä sinne services sekä portfolio domainit, minkä pitäisi sitten toimia services.pasisalmela.pro ja portfolio.pasisalmela.pro subdomaineina. (Lähde: https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/)
+Navigoin takas namecheapin sivulle, ja menin siellä kohtaan domain list --> domain --> Advanced DNS. Kävin lisäämässä sinne services sekä portfolio domainit, minkä pitäisi sitten toimia services.pasisalmela.pro ja portfolio.pasisalmela.pro subdomaineina. (Lähde: https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/)
 <br>
 <br>
 ![Alt Text](images/Week5image8.png)
