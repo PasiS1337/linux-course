@@ -23,3 +23,8 @@ Tämän jälkeen kävin katsomassa whatsmydns.net -sivulta, että onnistuiko tä
 <br>
 <br>
 ![Alt Text](images/Week5image4.png)
+<br>
+<br>
+Seuraavaksi kävin kokeilemassa pasisalmela.pro koneeni selaimella, ja sieltä tuli se viime tunnilla tehty testisivu näkyviin.
+
+![Alt Text](images/Week5image5.png)
