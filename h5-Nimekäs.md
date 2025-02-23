@@ -69,6 +69,10 @@ Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedosto
 
 # e) tehtävä -- host ja dig-komennot
 
+Aloitin katsomalla man host ja man dig -sivut, mutta man dig ei näyttänyt mitään niin kävin katsomassa ja se pitää ensiksi asentaa. 
+<br>
+![Alt Text](images/Week5image11.png)
+<br>
 
 
 
@@ -78,6 +82,7 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-chang
 https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/ <br>
 https://dev.to/tikam02/configuring-domains-and-sub-domains-in-apache-webserver-1bl1 <br>
 https://phoenixnap.com/kb/linux-dig-command-examples
+https://www.tecmint.com/install-dig-and-nslookup-in-linux/#digdebian
 
 
 
