@@ -60,6 +60,13 @@ Sitten menin /etc/apache2/sites-enabled/pasiboi.conf tiedostoon ja lisäsin sinn
 
 ![Alt Text](images/Week5image9.png)
 
+<br>
+<br>
+Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon.
+<br>
+<br>
+![Alt Text](images/Week5image10.png)
+
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
