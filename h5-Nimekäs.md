@@ -10,6 +10,6 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 # a) Tehtävä - Domainin vuokraaminen (Namecheap)
 
-Näköjään Namecheap ei ainakaan toimi Github educationin kanssa (Your university is not eligible) joten aloitin laittamalla oman nimeni Namecheapin domain searchiin ja sieltä tuli monta eri vaihtoehtoa, joista päätin valita pasisalmela.pro🥈
+Näköjään Namecheap ei ainakaan toimi Github educationin kanssa (Your university is not eligible) joten aloitin laittamalla oman nimeni Namecheapin domain searchiin ja sieltä tuli monta eri vaihtoehtoa, joista päätin valita pasisalmela.pro:n
 <br>
 ![Alt Text](images/Week5image2.png)
