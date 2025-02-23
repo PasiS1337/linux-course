@@ -72,7 +72,8 @@ Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedosto
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/ <br>
 https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/ <br>
-https://dev.to/tikam02/configuring-domains-and-sub-domains-in-apache-webserver-1bl1
+https://dev.to/tikam02/configuring-domains-and-sub-domains-in-apache-webserver-1bl1 <br>
+https://phoenixnap.com/kb/linux-dig-command-examples
 
 
 
