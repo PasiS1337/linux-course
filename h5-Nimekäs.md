@@ -67,6 +67,10 @@ Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedosto
 
 ![Alt Text](images/Week5image10.png)
 
+# e) tehtävä -- host ja dig-komennot
+
+
+
 
 # Lähteet
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
