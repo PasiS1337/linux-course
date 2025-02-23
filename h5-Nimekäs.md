@@ -17,9 +17,9 @@ Näköjään Namecheap ei ainakaan toimi Github educationin kanssa (Your univers
 <br>
 Seuraavaksi menin Advanced DNS asetuksiin, ja laitoin samat asetukset mitä tunnilla käytiin läpi osoittamaan domain nimeni (pasisalmela.pro):n tuohon virtuaalipalvelimeni IP-osoitteelle 134.122.56.192. 
 
-![Alt Text](images/Week5image4.png)
+![Alt Text](images/Week5image3.png)
 
 Tämän jälkeen kävin katsomassa whatsmydns.net -sivulta, että onnistuiko tämä ja sinne alkoi pikkuhiljaa tulla eri servereille näkyviin tuo. 
 <br>
 <br>
-![Alt Text](images/Week5image3.png)
+![Alt Text](images/Week5image4.png)
