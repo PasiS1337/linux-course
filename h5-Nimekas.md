@@ -61,7 +61,7 @@ Sitten menin /etc/apache2/sites-enabled/pasiboi.conf tiedostoon ja lisäsin sinn
 ![Alt Text](images/Week5image9.png)
 
 <br>
-Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon ja sitten kävin testaamassa niin tuo subdomain toimii (tosin se vie vain kotisivulle mutta ohjeissa sanottiin, että tämä riittää.
+Tämän jälkeen tein tuon services subdomainin samalla kaavalla samaan tiedostoon ja sitten kävin testaamassa niin tuo subdomain toimii (tosin se vie vain kotisivulle mutta ohjeissa sanottiin, että tämä riittää).
 <br>
 <br>
 
@@ -81,13 +81,13 @@ Vaikuttaa siltä, että host-komento on vähän "heikompi" versio dig:istä, ja 
 Tuo Time-to-live on namecheap.comilla 60, ja pasisalmela.pro:ssa 1799, mikä vaikuttaa aika suurelta erolta
 <br>
 <br>
-Sitten kävin etsimässä jonkun pienen/keskipienen yrityksen, ja katsoin digillä niiden DNS-tietoja ja huomasin, että heillä on 2 eri IPV4 osoitetta (en osaa kyllä sanoa miksi, esim namecheap.comilla oli vain 1)
+Sitten kävin etsimässä jonkun pienen/keskipienen yrityksen, ja katsoin digillä niiden DNS-tietoja ja huomasin, että heillä on 2 eri IPv4 osoitetta (en osaa kyllä sanoa miksi, esim namecheap.comilla oli vain 1)
 <br>
 <br>
 ![Alt Text](images/Week5image13.png)
 <br>
 <br>
-Sitten katsoin digillä redditin tietoja, ja huomasin, että redditillä on 4 eri IPV4 ja 4 eri ipv6-osoitetta
+Sitten katsoin digillä redditin tietoja, ja huomasin, että redditillä on 4 eri IPv4 ja 4 eri IPv6-osoitetta
 <br>
 <br>
 ![Alt Text](images/Week5image14.png)
