@@ -11,6 +11,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 # x) tehtävä
 
 1) Lets Encrypti toimii siten, että se automatisoi koko prosessin, jossa halutaan sertifikaatti omalle serverille ja täten HTTP:// muuttuu selaimessa HTTPS://:ksi, ja yläreunassa ei näy käyttäjille mitään varoitusta esim: "TÄMÄ SIVUSTO EI OLE TURVALLINEN" <br>
+<br>
 Se vahvistaa, että käyttäjällä todellakin on kyseinen käyttäjän ilmoittama domaini, antamalla sille tietyn tehtävän mitä ei ole mahdollista suorittaa ilman, että hänellä on mahdollisuus muokata kyseisen domainin tiedostoja.
 <br>
 2) 
