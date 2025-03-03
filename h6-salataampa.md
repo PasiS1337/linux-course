@@ -21,7 +21,9 @@ Se vahvistaa, että käyttäjällä todellakin on kyseinen käyttäjän ilmoitta
 
 # a) tehtävä - Sertifikaatin hankkiminen
 
-Aloitin lataamalla Cerbotin ja tuon scriptin komennolla sudo apt-get install certbot python-certbot-apache apache2, koska Apachen kanssa tuon prosessin voi automatisoida certbotilla. Käytin ohjeita lähteestä: https://upcloud.com/resources/tutorials/install-lets-encrypt-apache  --- Sen jälkeen komento sudo certbot --apache, jonka jälkeen se kysyy muutamia kysymyksiä mm. sähköpostiosoitteesi, mitkä domainit haluat certifioda sekä haluatko jakaa spostisi cerbotin tekijöiden kanssa jne. Vastasin näihin kysymyksiin ja scripti teki sen jälkeen loput 
+Aloitin lataamalla Cerbotin ja tuon scriptin komennolla sudo apt-get install certbot python-certbot-apache apache2, koska Apachen kanssa tuon prosessin voi automatisoida certbotilla. Käytin ohjeita lähteestä: https://upcloud.com/resources/tutorials/install-lets-encrypt-apache  --- Sen jälkeen komento sudo certbot --apache
+<br>
+Alkuun tuli errori, ja katsoin Teron ohjeita https://terokarvinen.com/linux-palvelimet/#h6-salataampa -kohdassa ja huomasin, että unohin käyttää komentoa sudo a2enmod ssl. Tein sen, sitten potkaisin demonia ja kokeilin uusiksi jonka jälkeen se certbotin scripti kysyy muutamia kysymyksiä mm. sähköpostiosoitteesi, mitkä domainit haluat certifioda sekä haluatko jakaa spostisi cerbotin tekijöiden kanssa jne. Vastasin näihin kysymyksiin ja scripti teki sen jälkeen loput. 
 
 ![Alt Text](images/Week6image1.png)
 
