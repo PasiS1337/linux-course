@@ -45,5 +45,7 @@ Seuraavaksi kävin testaamassa https://www.ssllabs.com/ssltest/ sivustolla tuon 
 
 # Lähteet
 
+https://terokarvinen.com/linux-palvelimet/#h6-salataampa <br>
+https://upcloud.com/resources/tutorials/install-lets-encrypt-apache <br>
 
 
