@@ -29,7 +29,9 @@ Alkuun tuli errori, ja katsoin Teron ohjeita https://terokarvinen.com/linux-palv
 
 ![Alt Text](images/Week6image2.png)
 
-Tämän jälkeen huomasin, että pasisalmela.pro ei vastannut ollenkaan, ja kävin laittamassa reiän tulimuuriin komennolla sudo ufw allow 443/tcp, jonka jälkeen potkaisin demonia uusiksi ja sen jälkeen toimi, ja tuli se sertifikaatti näkyviin domainilla. 
+Tämän jälkeen huomasin, että pasisalmela.pro ei vastannut ollenkaan, ja kävin laittamassa reiän tulimuuriin komennolla sudo ufw allow 443/tcp, jonka jälkeen potkaisin demonia uusiksi ja sen jälkeen toimi, ja tuli se sertifikaatti näkyviin domainilla.  
+
+![Alt Text](images/Week6image3.png)
 
 
 
