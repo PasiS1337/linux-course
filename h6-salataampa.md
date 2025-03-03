@@ -13,5 +13,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 1) Lets Encrypti toimii siten, että se automatisoi koko prosessin, jossa halutaan sertifikaatti omalle domainille, ja täten HTTP:// muuttuu selaimessa HTTPS://:ksi, ja yläreunassa ei näy käyttäjille mitään varoitusta esim: "TÄMÄ SIVUSTO EI OLE TURVALLINEN" <br>
 Se vahvistaa, että käyttäjällä todellakin on kyseinen käyttäjän ilmoittama domaini, antamalla sille tietyn tehtävän mitä ei ole mahdollista suorittaa ilman, että hänellä on mahdollisuus muokata kyseisen domainin tiedostoja.
 <br>
-2) 
+2) Tässä kuvaillaan, miten tuo lego-työkalu toimii tuon sertifikaatin hankkimisessa. Elikkä siinä näkyy mihin tuo lego-softa kirjoittaa/lisää tuon ACME tokenin sisältämän avaimen.
+<br>
+3)j
 
