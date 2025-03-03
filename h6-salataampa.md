@@ -37,7 +37,11 @@ Tämän jälkeen huomasin, että pasisalmela.pro ei vastannut ollenkaan, ja käv
 
 Seuraavaksi kävin testaamassa https://www.ssllabs.com/ssltest/ sivustolla tuon domainini sertifikaatin.
 
+![Alt Text](images/Week6image4.png)
 
+![Alt Text](images/Week6image6.png)
+
+![Alt Text](images/Week6image5.png)
 
 # Lähteet
 
