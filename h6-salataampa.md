@@ -15,6 +15,7 @@ Se vahvistaa, että käyttäjällä todellakin on kyseinen käyttäjän ilmoitta
 <br>
 2) Tässä kuvaillaan, miten tuo lego-työkalu toimii tuon sertifikaatin hankkimisessa. Elikkä siinä näkyy mihin tuo lego-softa kirjoittaa/lisää tuon ACME tokenin sisältämän avaimen.
 <br>
+<br>
 3) Tässä näkyy mitkä on pakollista olla SSL-konfiguraatiossa.
 <br>
 
