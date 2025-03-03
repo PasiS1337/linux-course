@@ -33,6 +33,10 @@ Tämän jälkeen huomasin, että pasisalmela.pro ei vastannut ollenkaan, ja käv
 
 ![Alt Text](images/Week6image3.png)
 
+# b) tehtävä - TLS-laadunvarmennus
+
+Seuraavaksi kävin testaamassa https://www.ssllabs.com/ssltest/ sivustolla tuon domainini sertifikaatin.
+
 
 
 # Lähteet
