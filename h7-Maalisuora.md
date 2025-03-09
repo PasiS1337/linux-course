@@ -7,3 +7,23 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 - RAM-allokointi virtuaalikoneelle: 8GB
 - virtuaaliselle kovalevylle tilaa jaettu: 150GB
 - VirtualBox-ohjelma käytössä
+
+
+# a) "Hei Maailma" printtaus kolmella eri kielellä (Python, 
+
+
+# b) Lähdeviitteet kurssin aikaisemmissa tehtävissä - TARKISTUS
+
+Lähdeviitteet käyty läpi tehtävistä h1-h6 ja tarkistettu, että ne ovat asianmukaisesti merkitty.
+
+
+# c) Uusi itse tehty shell script komento + oikeudet kaikille käyttäjille
+
+
+# d) Vanha laboratorioharjoitus soveltuvin osin
+
+
+# e) Uuden tyhjän virtuaalikoneen asennus laboratorioharjoitusta varten
+
+Tämä kohta on kirjaimellisesti sama kuin h1-tehtävä, joten muistini virkistykseksi katsoin vanhaa raporttiani () sekä Teron alkuperäisiä ohjeita (), mitä käytin ensimmäistä kertaa virtuaalikoneelle linuxia asentaessani.
+
