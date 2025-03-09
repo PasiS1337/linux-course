@@ -64,4 +64,5 @@ Koitin tämän jälkeen asentaa uusiksi guest additions ajurit https://greenwebp
 - https://www.gnu.org/philosophy/free-sw.html
 - https://www.debian.org/CD/live/     (latasin debian ISO tiedoston täältä)
 - https://greenwebpage.com/community/how-to-install-virtualbox-guest-additions-on-debian-12/
+- https://terokarvinen.com/linux-palvelimet/#h1-oma-linux <br>
 - https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login
