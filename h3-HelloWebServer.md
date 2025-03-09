@@ -74,3 +74,4 @@ https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00
 https://askubuntu.com/questions/733265/what-is-get-http-1-1-200-19019 <br>
 https://firefox-source-docs.mozilla.org/overview/gecko.html <br>
 https://supporthost.com/curl-command-linux/ <br>
+https://terokarvinen.com/linux-palvelimet/#h3-hello-web-server <br>
