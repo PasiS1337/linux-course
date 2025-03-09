@@ -96,6 +96,7 @@ Sitten katsoin digillä redditin tietoja, ja huomasin, että redditillä on 4 er
 
 
 # Lähteet
+https://terokarvinen.com/linux-palvelimet/#h5-nimekas <br>
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/ <br>
 https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/ <br>
 https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/ <br>
