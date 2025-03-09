@@ -25,5 +25,14 @@ Lähdeviitteet käyty läpi tehtävistä h1-h6 ja tarkistettu, että ne ovat asi
 
 # e) Uuden tyhjän virtuaalikoneen asennus laboratorioharjoitusta varten
 
-Tämä kohta on kirjaimellisesti sama kuin h1-tehtävä, joten muistini virkistykseksi katsoin vanhaa raporttiani (https://github.com/PasiS1337/linux-course/blob/main/h1-linux-asennus-virtuaalikoneelle.md) sekä Teron alkuperäisiä ohjeita (), mitä käytin ensimmäistä kertaa virtuaalikoneelle linuxia asentaessani.
+Tämä kohta on kirjaimellisesti sama kuin h1-tehtävä, joten muistini virkistykseksi katsoin vanhaa raporttiani (https://github.com/PasiS1337/linux-course/blob/main/h1-linux-asennus-virtuaalikoneelle.md) sekä Teron alkuperäisiä ohjeita (https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login), mitä käytin ensimmäistä kertaa virtuaalikoneelle linuxia asentaessani.
+
+
+# Lähteet
+
+https://github.com/PasiS1337/linux-course/blob/main/h1-linux-asennus-virtuaalikoneelle.md <br>
+https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login <br>
+https://terokarvinen.com/linux-palvelimet/#h7-maalisuora <br>
+
+
 
