@@ -22,6 +22,10 @@ Lähdeviitteet käyty läpi tehtävistä h1-h6 ja tarkistettu, että ne ovat asi
 
 # c) Uusi itse tehty shell script komento + oikeudet kaikille käyttäjille
 
+Kävin alkuun katsomassa tälläisen artikkelin (https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/) ja koitin tehä hiukan modifoidun version eräästä esimerkistä mikä siellä löytyy eli ihan perus kahden numeron yhteislaskuri, mutta en halunnut kopioida vaan suoraan tuota niin ajattelin, että lisään siihen sellaisen if else lausekkeen mikä hyväksyy ainoastaan numerot 1-10000. Tältä näyttää koodi minkä tein:
+
+![Alt Text](images/Week7image1.png)
+
 
 # d) Vanha laboratorioharjoitus soveltuvin osin
 
