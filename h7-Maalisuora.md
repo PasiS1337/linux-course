@@ -48,6 +48,7 @@ https://github.com/PasiS1337/linux-course/blob/main/h1-linux-asennus-virtuaaliko
 https://terokarvinen.com/2021/install-debian-on-virtualbox/?fromSearch=debian#first-login <br>
 https://terokarvinen.com/linux-palvelimet/#h7-maalisuora <br>
 https://terokarvinen.com/2024/arvioitava-laboratorioharjoitus-2024-linux-palvelimet/?fromSearch=laboratorio <br>
+https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/ <br>
 
 
 
