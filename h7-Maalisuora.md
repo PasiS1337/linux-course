@@ -9,7 +9,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 - VirtualBox-ohjelma käytössä
 
 
-# a) "Hei Maailma" printtaus kolmella eri kielellä (Python, 
+# a) "Hei Maailma" printtaus kolmella eri kielellä (Python, Lua, 
 
 
 # b) Lähdeviitteet kurssin aikaisemmissa tehtävissä - TARKISTUS
