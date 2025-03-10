@@ -24,7 +24,11 @@ Lähdeviitteet käyty läpi tehtävistä h1-h6 ja tarkistettu, että ne ovat asi
 
 Kävin alkuun katsomassa tälläisen artikkelin (https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/) ja koitin tehä hiukan modifoidun version eräästä esimerkistä mikä siellä löytyy eli ihan perus kahden numeron yhteislaskuri, mutta en halunnut kopioida vaan suoraan tuota niin ajattelin, että lisään siihen sellaisen if else lausekkeen mikä hyväksyy ainoastaan numerot 1-10000. Tältä näyttää koodi minkä tein:
 
-![Alt Text](images/Week7image1.png)
+![Alt Text](images/Week7image3.png)
+
+Sain sen toimimaan, mutta en ihan niinkuin tarkoitin alkuunsa sillä jos laittaa numeron, joka on yli 10 000 niin se silti suorittaa toimenpiteen, mutta sanoo että numero oli yli 10 000. Pitäisi varmaan while-loopilla tehdä tuo silleen, että loopin aikana jos numero on alle 10 000 niin hyväksyy sen, mutta jos yli 10 000 niin pyytää uuden numeron kunnes syötetty numero täsmää asetettuja parametreja. Mutta ei ole niin oleellinen asia niin jätän nyt toistaseks tälläseks
+
+![Alt Text](images/Week7image2.png)
 
 
 # d) Vanha laboratorioharjoitus soveltuvin osin
