@@ -11,7 +11,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 
 # a) "Hei Maailma" printtaus kolmella eri kielellä (Python, Lua, 
 
-Ensiksi piti asentaa lua ja ruby kielet linuxille komennolla "sudo apt install lua5.3 ruby"
+Ensiksi piti asentaa lua ja ruby kielet linuxille komennolla `sudo apt install lua5.3 ruby`
 
 # b) Lähdeviitteet kurssin aikaisemmissa tehtävissä - TARKISTUS
 
