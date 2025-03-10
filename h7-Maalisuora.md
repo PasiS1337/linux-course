@@ -9,7 +9,7 @@ Pohjana Tero Karvinen 2025: Linux kurssi, http://terokarvinen.com
 - VirtualBox-ohjelma käytössä
 
 
-# a) "Hei Maailma" printtaus kolmella eri kielellä (Python, Lua, 
+# a) "Hei Maailma" printtaus kolmella eri kielellä (Python, Lua, Ruby)
 
 Ensiksi piti asentaa lua ja ruby kielet linuxille komennolla `sudo apt install lua5.3 ruby` ja tämän jälkeen menin `usr/local/bin` kansioon ja tein sinne .py .lua ja .rb tiedostot, joidenka sisälle (https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/) -ohjeilla perus Hello World printtaukset. 
 
