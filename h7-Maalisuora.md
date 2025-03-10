@@ -30,6 +30,8 @@ Sain sen toimimaan, mutta en ihan niinkuin tarkoitin alkuunsa sillä jos laittaa
 
 ![Alt Text](images/Week7image2.png)
 
+Sitten piti muokata oikeudet silleen, että kaikki käyttäjät voivat käyttää tätä niin käytin siihen komentoa `sudo chmod ugo+x pluscalculator.sh`
+
 
 # d) Vanha laboratorioharjoitus soveltuvin osin
 
